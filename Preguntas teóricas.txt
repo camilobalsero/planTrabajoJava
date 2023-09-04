@@ -1,0 +1,26 @@
+Preguntas teóricas
+1.	¿Qué es un método en Java?
+R/ Un método en Java es un bloque de código que realiza una tarea específica. Los métodos son muy importantes para la organización y podemos llamarlos en cualquier parte del código.
+
+2.	¿Cuáles son los cuatro tipos de métodos en Java?
+R/ 1- Método con parámetro y con retorno
+2- Método con parámetro y sin retorno
+3- Método sin parámetro y con retorno
+4- Método sin parámetro y sin retorno
+
+3.	¿Cuál es la diferencia entre un método con parámetros y sin retorno y un método sin parámetros y con retorno?
+R/ Un método con parámetros y sin retorno, se proporcionan datos como entrada y no se espera un valor de retorno en cambio con un método sin parámetros y con retorno, no se proporcionan parámetros de entrada pero se espera un valor de retorno como resultado del cálculo realizado en el método.
+
+4.	¿Cuál es la diferencia entre un método con parámetros y con retorno y un método con parámetros y sin retorno?
+R/ Un método con parametros y con retorno va arecibir uno o mas valores de entrada y al finalizar su ejecución retornara un valor. Mientras que un metodo con parametros y sin retorno realizara la ejecución de su resoectivo procedimiento con la información que proporcione el usuario pero sin devolver nada.
+
+5. 	¿Por qué son importantes los métodos en Java?
+R/ Los metodos facilitan la reutilización de codigo en diferentes partes del programa. En lugar de escribir el mismo código una y otra vez, se puede definir un método una vez y llamarlo en múltiples lugares según sea necesario.
+
+6. 	¿Qué es una estructura de datos?
+R/ las estructuras de datos son utilizadas para almacenar y organizar datos de diferentes formas.
+
+7. 	¿Cuál es la diferencia entre un arreglo, un arrayList y un HashMap?
+R/ La diferencia entre array y arraylist es que el array es de tamaño fijo mientras que el arraylist es de crecimienro dinámico y se pueden trabajar con algunas funciones.  mientras que él hashtable almacena los datos de forma clave valor. Y la unica diferencia entre un hashtable y un hasmap es que el hasmap permite almacenar valores nulos.
+
+
